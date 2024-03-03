@@ -5,9 +5,18 @@
   /* -------- HEADER -------- */
   /*--------------------------*/
   body {
-    background-color: #FAF7F0;
+    /* background-color: #FAF7F0; */
       font-size: 15px;
   }
+
+  .cvo-page {
+    padding: 0;
+    position: relative;
+    background-image: url(../img/bg_2.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    color: #333;
+}
 
   .container.header {
     margin-top: 20px;
@@ -15,6 +24,14 @@
   /*   justify-content: center; */
   /*  apparently Codepen does not support display flex, on original project it works perfectly. Therefore, there will be some imperfections  */
   }
+
+  #intro-section {
+    background-image: url(../img/bg_1.png);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    margin-right: 20px;
+    margin-top: 40px;
+}
 
   strong {
       font-size: 17px;
@@ -32,7 +49,7 @@
   }
   
   .title-name {
-    background-color: #FAF7F0;
+    /* background-color: #FAF7F0; */
     height: 210px;
     width: auto;
     display: flex;
@@ -142,6 +159,21 @@
     line-height: 1.5;
   }
   
+
+  .sub-image {
+    background-image: url(./assest/image/bg_3.png);
+}
+.sub-image {
+    background-image: url(../img/bg_3.png);
+    width: 80px;
+    height: 160px;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    position: absolute;
+    top: 40%;
+    right: 0;
+    z-index: 0;
+}
   /* -------- FOOTER -------- */
   /*--------------------------*/
   .row.footer {
@@ -233,3 +265,4 @@
   .col-md-6 {
     width: 65%;
   }
+}

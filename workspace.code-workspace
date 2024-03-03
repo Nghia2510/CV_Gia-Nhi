@@ -2,6 +2,51 @@
 	"folders": [
 		{
 			"path": "."
+		},
+		{
+			"path": "../Javascript source"
+		},
+		{
+			"path": "../w3_band"
+		},
+		{
+			"path": "../CTQM---Elearning-main"
+		},
+		{
+			"path": "../F8-FullStack"
+		},
+		{
+			"path": "../JUDOshop"
+		},
+		{
+			"path": "../Tabs UI"
+		},
+		{
+			"path": "../Music App"
+		},
+		{
+			"path": "../Toast Message"
+		},
+		{
+			"path": "../Form validation"
+		},
+		{
+			"path": "../beautiful-portfolio-website-main"
+		},
+		{
+			"path": "../React.js"
+		},
+		{
+			"path": "../ReactJS Projects/tiktok"
+		},
+		{
+			"path": "C:/Users/Inspiron 5515/judo-shop"
+		},
+		{
+			"path": "../ReactJS Projects/tiktok-fake"
 		}
-	]
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "CV_Nghia-Pham"
+	}
 }
